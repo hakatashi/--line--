@@ -1,8 +1,8 @@
 {
   "name": "--line--",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "__LINE__ for Node.js",
+  "main": "__LINE__.es6.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
